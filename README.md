@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on React JS for almost a year now.
+Always curious, I love to be precise in my job and to produce qualitative and maintainable code.
 
 <!--
 **YoannBuzenet/YoannBuzenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
