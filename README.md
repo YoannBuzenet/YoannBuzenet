@@ -2,8 +2,8 @@
 🔭 I’m currently working on React JS for almost a year now. <br/>
 Always curious, I love to produce qualitative and maintainable code.
 
+💬 Speaking : English/French/Spanish<br/><br/>
 Please reach out !
-💬 Speaking : English/French/Spanish
 
 <!--
 **YoannBuzenet/YoannBuzenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
