@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on React JS for almost a year now. <br/>
-Always curious, I love to be precise in my job and to produce qualitative and maintainable code.
+Always curious, I love to produce qualitative and maintainable code.
 
 Please reach out !
 💬 Speaking : English/French/Spanish
