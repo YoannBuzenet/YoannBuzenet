@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on React JS for almost a year now. <br/>
+🔭 I’m currently working on React JS. On my side projects, on Node too.<br/>
 Always curious, I love to produce qualitative and maintainable code.
 
 💬 Speaking : English/French/Spanish<br/><br/>
