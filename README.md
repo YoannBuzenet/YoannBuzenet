@@ -2,6 +2,8 @@
 🔭 I’m currently working on React JS. On my side projects, on Node too.<br/>
 Always curious, I love to produce qualitative and maintainable code.
 
+My last project : www.easyflow.ai
+
 💬 Speaking : English/French/Spanish<br/><br/>
 Please reach out !
 
