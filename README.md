@@ -1,8 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on React JS. On my side projects, on Node too.<br/>
+🔭 I’m currently working on Web scrapping with Node during the day, and coding in React/Next/Node during the nights and week-ends.<br/>
 Always curious, I love to produce qualitative and maintainable code.
 
-My last project : www.easyflow.ai
+My last projects : 
+- A SAAS on top of GPT-3 : www.easyflow.ai
+- React-image-manager, a small library to implement in a CMS
+- Working on a blog on my spare time, coded from scratch, to share what I've learned coding!
 
 💬 Speaking : English/French/Spanish<br/><br/>
 Please reach out !
