@@ -3,9 +3,9 @@
 Always curious, I love to produce qualitative and maintainable code.
 
 My last projects : 
-- A SAAS on top of GPT-3 : www.easyflow.ai
 - React-image-manager, a small library to implement in a CMS
 - Working on a blog on my spare time, coded from scratch, to share what I've learned coding!
+- A SAAS on top of GPT-3
 
 💬 Speaking : English/French/Spanish<br/><br/>
 Please reach out !
